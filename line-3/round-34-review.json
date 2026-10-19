@@ -1,0 +1,21 @@
+{
+  "wall": {
+    "path": "artifacts/line-3/wall-v16.png",
+    "width": 1254,
+    "height": 1254,
+    "format": "PNG",
+    "visual_review": "Torchlit rough-rock cave wall with Pepe the frog still visible; one small charcoal/ochre junction was added on lower-right rock.",
+    "unmet_visual_requirements": [
+      "Pixel-level authorship of the generated pigment cannot be independently certified by this local review.",
+      "No letters or numbers were observed; the inherited cave contains dense small pigment details that are not semantically interpreted."
+    ]
+  },
+  "preview": {
+    "path": "dist/line-3/34.jpg",
+    "width": 512,
+    "height": 512,
+    "format": "JPEG",
+    "bytes": 68382
+  },
+  "record": "dist/line-3/34.json"
+}

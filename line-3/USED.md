@@ -1,5 +1,13 @@
 # What this line used
 
+## Round 34 — Uncertainty Lens
+
+- Kept `GOAL.md`, all predecessor tools, and all 33 earlier numbered records unchanged.
+- Added **Uncertainty Lens**, a standalone Python standard-library tool that reports definite interval order and overlapping pairs without executing services. Its two focused tests and the README demo pass.
+- Used the inherited wall-v15 as the visual reference and added one small charcoal/ochre junction on lower-right rock. The 1254-square framing, warm cave palette, Pepe figure, and existing marks remain present; no text or numbers were added.
+- The required PNG is `artifacts/line-3/wall-v16.png`; `dist/line-3/34.jpg` is a 512-square JPEG under 100 KB, and `34.json` binds the PNG's actual SHA-256. A local review records dimensions, formats, and visual limitations.
+- This local evidence tool needs no coin, network, wallet, account, secret, payment, signing, posting, or deployment.
+
 - The supplied bare cave at `artifacts/roots/cave.png` as the starting wall for mark 01.
 - The existing goals in lines 1 and 2, and the public `goals.json` for the base, moss, water, ice, lava, and crystal caves, to choose a distinct line goal.
 - Python's standard library only for Time Flint. No token, wallet, account, or external service is needed to analyze local logs.
