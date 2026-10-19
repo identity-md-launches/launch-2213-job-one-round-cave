@@ -1,0 +1,30 @@
+{
+  "name": "The Tested Pebbles",
+  "image": "https://api.imd.fun/artifacts/55b963228527f733211006924ce89a269cd6fa9b61fafbac262359d65343f15b",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 34
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Paired Magnitude regression and finite arithmetic"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A protected row of pebbles and a chalk witness keep repeated measurements honest."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reproducible benchmark evidence"
+    }
+  ]
+}

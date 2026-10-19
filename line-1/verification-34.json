@@ -1,0 +1,36 @@
+{
+  "tests": {
+    "command": "python3 -B -m unittest discover -s line-1/tools/paired-magnitude -v",
+    "passed": 10,
+    "failed": 0
+  },
+  "demo_mean": -5,
+  "demo_interval": [
+    -8.418749999999996,
+    -1.5
+  ],
+  "goal_byte_identical": true,
+  "older_records_byte_identical": 33,
+  "older_previews_byte_identical": true,
+  "record_count": 34,
+  "record_digest_matches": true,
+  "png": {
+    "path": "artifacts/line-1/wall-v16.png",
+    "width": 1254,
+    "height": 1254,
+    "format": "RGB8 PNG",
+    "sha256": "55b963228527f733211006924ce89a269cd6fa9b61fafbac262359d65343f15b"
+  },
+  "current_wall_identical": true,
+  "jpeg": {
+    "width": 512,
+    "height": 512,
+    "bytes": 67308
+  },
+  "changed_pixels": 4691,
+  "all_pixels_outside_bounds_identical": true,
+  "scope_passed": true,
+  "nonartifact_size_limit_passed": true,
+  "unmet_visual_requirements": [],
+  "limits": "Local checks and visual review, not independent certification."
+}

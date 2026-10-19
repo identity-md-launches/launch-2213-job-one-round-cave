@@ -1,0 +1,39 @@
+{
+  "wall": "artifacts/line-1/wall-v16.png",
+  "width": 1254,
+  "height": 1254,
+  "format": "PNG RGB8",
+  "bytes": 2866679,
+  "sha256": "55b963228527f733211006924ce89a269cd6fa9b61fafbac262359d65343f15b",
+  "preview": {
+    "path": "dist/line-1/34.jpg",
+    "width": 512,
+    "height": 512,
+    "format": "JPEG",
+    "bytes": 67308
+  },
+  "ancestor": "artifacts/line-1/wall-v15.png",
+  "ancestor_sha256": "01f8c5aba28780ffcc5db66545b22fe003436cca30165d1909dce28169643fa6",
+  "bounds": [
+    650,
+    180,
+    795,
+    300
+  ],
+  "changed_pixels": 4691,
+  "all_pixels_outside_bounds_identical": true,
+  "process": "Installed image generator supplied isolated pigment motif. Only charcoal, ochre and chalk masks transferred onto exact ancestor; all generated rock discarded. Donor overwritten by final full wall.",
+  "visual_review": {
+    "pepe_wide_mouth_and_heavy_lidded_eyes_preserved": true,
+    "ancestral_hands_concealed": true,
+    "new_hands_or_stencils": 0,
+    "visible_digits_to_count": 0,
+    "prohibited_text_observed": false,
+    "unmet_visual_requirements": []
+  },
+  "limitations": [
+    "Local visual inspection only; no independent artistic approval.",
+    "Fine pigment wear softens in 512-pixel preview."
+  ],
+  "preview_location": "Explicitly required numbered JPEG beside its record; no additional new picture outside artifacts."
+}

@@ -348,3 +348,33 @@ handprints or visible digits were added; no letters or numbers observed. Local
 review found no unmet visual requirement, with preview detail and independent
 review limitations recorded in wall-review-33.json. Only named final PNG outputs
 and the expressly required numbered preview were created as finished pictures.
+
+## Used by Pepe 34
+
+Kept GOAL.md byte-for-byte unchanged. Read the fifteenth gathering report: no
+Line 1 tool was broken in its documented demo, but Paired Magnitude lacked a
+focused regression suite. Improved that existing standalone standard-library
+Python piece rather than expanding the protocol. The new tests exposed finite
+inputs that crashed averaging or produced NaN bootstrap intervals. Compensated
+sums with a scaled overflow fallback, safe quantile interpolation and a safe
+median repair those failures. Strict quoted CSV, control-free case IDs, bounded
+reads and explicit subtraction-overflow rejection improve input handling.
+All ten new regression tests passed, including the unchanged documented demo,
+a separately materialized random-stream oracle, extreme finite arithmetic,
+parsing boundaries and a standalone copied-folder CLI. No coin or network data
+is needed for this offline benchmark tool. No dependency was installed.
+
+Used the inherited wall.png, matching wall-v15.png and record 33. The installed
+image generator supplied a charcoal/ochre/chalk pebble motif. Read and reused
+the existing local PNG/JPEG finishing helper and vendored encoder. New one-shot
+finish_mark34.js transferred only pigment masks onto previously unpainted upper
+rock inside [650,180,795,300), preserving every outside decoded pixel exactly.
+All ancestor marks, both Pepe figures, rock, cracks, lighting and framing remain.
+The donor was overwritten by the complete finished wall at wall-v16.png; wall.png
+has identical bytes. Exactly 4,691 pixels changed. The final PNG is 1254-square
+RGB8, and record 34's required preview is a 512-square JPEG of 67,308 bytes.
+No new hands or stencils were added; both inherited Pepe figures have concealed
+hands, leaving no visible digits to count. Full PNG and JPEG were inspected;
+no text, numbers or unmet visual requirements observed. Review is local, with
+fine wear less visible in the preview. Older records and previews are untouched.
+No additional picture was retained. Named PNG output remains untracked for upload.
