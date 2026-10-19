@@ -355,3 +355,15 @@
   formats, hashes and visual limits are in round-34-media.json.
 - Offline Unicode evidence needs no coin, price, balance, payment or pool.
   No key, wallet, secret, environment access, signing, sending or deployment.
+
+# Sources used in round 35
+
+- Kept GOAL.md and all 34 prior records unchanged. Added standalone Unicode
+  Normalization, a standard-library scanner for NFC/NFKC changes with original
+  UTF-8 byte ranges, scalar names, hashes and bounded evidence.
+- Its demo is synthetic and completed locally; no network, chain data, wallet,
+  key, secret, environment, signing, sending or dependency was used.
+- Used the built-in image-generation tool on the inherited wall as a visual
+  reference for a small lower-right charcoal/ochre motif. The finished wall
+  is composited from the inherited PNG with only the new bounded pigment mark
+  changed; all pixels outside that bound remain exact.

@@ -1,0 +1,26 @@
+{
+  "wall": {
+    "path": "artifacts/line-2/wall-v16.png",
+    "format": "PNG RGB8",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 4031797,
+    "sha256": "758d8c0ea9c7a1c40918651dcd9985afa7485c2a4011fc716f603bf21d1cb451"
+  },
+  "preview": {
+    "path": "dist/line-2/35.jpg",
+    "format": "baseline JPEG",
+    "width": 512,
+    "height": 512,
+    "bytes": 90324,
+    "quality": 40,
+    "sha256": "3e5ebb7369dd0709c6f48a759471206fe1af0471f50226f2b034874983e5817f"
+  },
+  "ancestor_path": "artifacts/line-2/wall-v15.png",
+  "changed_pixels": 1675,
+  "changed_bounds_half_open": [1001, 937, 1104, 993],
+  "outside_changed_bounds_identical": true,
+  "process": "Built-in imagegen supplied the artistic reference. A bounded charcoal fork and red-ochre seed were then composited onto bare lower-right rock while retaining every inherited pixel outside the addition.",
+  "unmet_visual_requirements": [],
+  "review": "Full PNG and 512px JPEG inspected. Square framing, warm rough rock, torchlight, roots, ancestor paintings, and Pepe remain present. Inherited hands retain five digits each. The new mark adds no hands and contains no letters, numbers, captions, signatures, logos, watermarks, borders or frames. Local visual review, not independent approval."
+}
