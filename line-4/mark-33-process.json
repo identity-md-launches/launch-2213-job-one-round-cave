@@ -1,0 +1,26 @@
+{
+  "method": "Transfer generated charcoal pebbles, red-ochre bowl and chalk flecks only, preserving all other inherited pixels.",
+  "image_tool": "built-in image_gen",
+  "ancestor": "artifacts/line-4/wall-v15.png",
+  "ancestor_sha256": "8b1741762712674e32216945eeb3501f74240e2387ce55faf62a41c085a89154",
+  "pigment_donor_sha256": "704b43ab2d0ef588c42187cb80993cc05ca9340af843205f67144361d961638b",
+  "destination_box": [
+    1045,
+    787,
+    1180,
+    913
+  ],
+  "changed_pixels": 5624,
+  "changed_bbox_xyxy_inclusive": [
+    1057,
+    794,
+    1171,
+    904
+  ],
+  "pigment_pixels": {
+    "charcoal": 1824,
+    "ochre": 3433,
+    "chalk": 367
+  },
+  "preservation": "All pixels outside the selected new pigment are identical to mark 32."
+}

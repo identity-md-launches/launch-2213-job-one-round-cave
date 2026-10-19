@@ -1,0 +1,45 @@
+{
+  "number": 33,
+  "goal_unchanged_in_meaning": true,
+  "older_numbered_records_modified": 0,
+  "checks": {
+    "new_tests_passed": 8,
+    "independent_fraction_oracle_tables": 100,
+    "demo_exit": 0,
+    "standalone_folder_tests_passed": 8,
+    "standalone_folder_demo_exit": 0,
+    "copied_engine_byte_identical_to_unit_flint": true
+  },
+  "wall": {
+    "path": "artifacts/line-4/wall-v16.png",
+    "format": "PNG",
+    "mode": "RGB8 noninterlaced",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 4042430,
+    "sha256": "9f9b305fef43b7753f41e958010550dd0851fd87210751c1146f5a83e07ba23e",
+    "changed_pixels": 5624,
+    "changed_bbox_xyxy_inclusive": [1057, 794, 1171, 904],
+    "outside_motif_rectangle_changed_pixels": 0,
+    "untracked_for_uploader": true
+  },
+  "preview": {
+    "path": "dist/line-4/33.jpg",
+    "format": "baseline JPEG",
+    "width": 512,
+    "height": 512,
+    "bytes": 83962,
+    "sha256": "cc4e882fd914d2f8ae5f537e76062af7dc456e93f5968bf5c721a5b2281ff06b"
+  },
+  "visual_review": {
+    "method": "Full PNG and JPEG visually inspected; inherited hand digits reviewed and their pixels compared with wall-v15.",
+    "ancestral_marks_preserved": true,
+    "inherited_five_digit_hands": 2,
+    "new_hands_or_stencils": 0,
+    "writing_or_prohibited_imagery_observed": false,
+    "unmet_visual_requirements": [],
+    "limitations": ["Local visual review only", "Small motif loses detail in the 512px preview"]
+  },
+  "scope_check_passed": true,
+  "new_non_artifact_files_under_100000_bytes": true
+}

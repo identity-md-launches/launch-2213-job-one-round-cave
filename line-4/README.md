@@ -112,3 +112,14 @@ python3 -B line-4/tools/subdivision-flint/subdivision_flint.py demo
 
 The demo tightens `[0, 100]` to `[0, 37.5] m²`, proving containment in a supplied
 `[0, 38] m²` limit. It remains a conservative enclosure, not exact optimization.
+
+Mark 33 adds [Table Flint](tools/table-flint/README.md), which checks sums and
+means from a CSV of measured quantities with compatible units and optional
+weights. It compares exact claims and binds the raw CSV bytes by SHA-256:
+
+```sh
+python3 -B line-4/tools/table-flint/table_flint.py demo
+```
+
+The synthetic demo checks `1500 m` total, `750 m` ordinary mean and `2500/3 m`
+weighted mean. It checks the supplied data, not the measurements' truth.

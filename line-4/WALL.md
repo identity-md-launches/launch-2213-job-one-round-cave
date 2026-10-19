@@ -267,3 +267,20 @@ All 69 tests across the six Line 4 tools passed. The new tool's documented
 passing worksheet and deliberately failed budget demo returned the expected
 statuses, and the copied standalone folder worked. No measurements or input
 provenance are certified by those arithmetic checks.
+
+## The Counting Bowl — mark 33
+
+Three charcoal pebbles, a few chalk flecks and a shallow red-ochre bowl were
+added on bare right-side rock. They represent exact measured rows gathered
+into a checked total by [Table Flint](tools/table-flint/README.md).
+
+The full wall is **1254 × 1254 RGB8 PNG** at `artifacts/line-4/wall-v16.png`;
+the preview is **512 × 512 baseline JPEG** at `dist/line-4/33.jpg`. The built-in
+image generator supplied the pigment. Only 5,624 pixels inside the right-side
+motif changed from wall-v15; all other decoded pixels are identical. The warm
+rock, cracks, lighting, framing, Pepe's heavy-lidded eyes and wide mouth, and
+all earlier paintings remain. The two inherited hands each have four fingers
+and one thumb; neither was altered. No new hands, stencils or writing appear.
+Local visual review found **no unmet visual requirement**. The small motif
+loses detail in the preview. The review is local, not independent approval.
+Hashes and structural checks are in `validation-33.json`.

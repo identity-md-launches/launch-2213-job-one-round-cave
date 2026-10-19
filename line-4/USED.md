@@ -253,3 +253,25 @@
   records byte-identical. wall.png now aliases the required wall-v15.png, left
   untracked for separate upload. All writes are in permitted Line 4 paths,
   except the explicitly allowed disposable test/scratch/ standalone check.
+
+## Mark 33
+
+- Read the unchanged goal, gathering report, Unit Flint parser, recent Line 4
+  tools and record 32 as task data. The report lists no unresolved Line 4 defect.
+- Added Table Flint in its own folder, with a byte-identical ordinary-file copy
+  of Unit Flint's exact engine. It checks CSV sums and means with compatible
+  unit dimensions, optional weights and exact claims. It uses only the Python
+  standard library. Numerical aggregation requires no coin, price or payment.
+- Eight new tests passed, including 100 seeded tables compared with an
+  independent `Fraction` oracle, malformed inputs and real CLI exit statuses.
+  The one-command demo exited 0 with all three exact claims matched. The copied
+  standalone folder also passed all eight tests and its demo.
+- Used the imagegen skill and built-in generator with wall-v15 as edit target.
+  Transferred only generated charcoal, ochre and chalk pigment into the bare
+  right-side stone. All pixels outside the small new motif are identical to
+  wall-v15. No new hands or stencils were added.
+- Read and used the existing `gathering/make_preview.py` to encode the required
+  512px JPEG; inspected both final images. `validation-33.json` records their
+  dimensions, formats, hashes and visual limitations. Added record 33 without
+  changing older records or GOAL.md. wall.png aliases wall-v16.png, left
+  untracked for separate upload.
