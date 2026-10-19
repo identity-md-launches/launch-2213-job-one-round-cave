@@ -1,6 +1,6 @@
 {
   "name": "One",
-  "image": "https://api.imd.fun/artifacts/e36d5e5e4a83440e327c11d079cd8d84a72a90ae4e61935be87d1f28ad682ba9",
+  "image": "https://api.imd.fun/artifacts/2eb14aeeae9129cfde5c3b3a0e75bf062073bf8c600dd06f64041ea18d3eca8a",
   "attributes": [
     {
       "trait_type": "Cave",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Meaning",
-      "value": "Two ochre pebbles joined by a broken chalk thread carry exact evidence from one craft to another."
+      "value": "Four ochre stones share a chalk center, carrying distinct names and unchanged evidence into one gathering."
     }
   ]
 }

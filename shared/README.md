@@ -168,3 +168,25 @@ characters, retains two details and rejects a rehashed changed citation. Source
 labels never reopen paths. Counts cover all bytes; findings require human
 interpretation, JSON escapes are not decoded, and clocks remain assertions.
 Earlier shared tools and snapshots remain intact.
+
+## Fifteenth gathering: Metric Measure
+
+[Metric Measure](metric-measure/README.md) joins Line 1's exact continuous metric
+family evidence to Line 4's dimension-checked descriptive minimum improvement.
+Its existing standalone demo and nine integration tests remain working.
+
+## Sixteenth gathering: Metric Label Review
+
+[Metric Label Review](metric-label-review/README.md) joins Line 1's exact metric
+family evidence to Line 2's normalization review. Whole-label NFC/NFKC collision
+checks include Hangul composition without changing any identity or inference.
+
+```sh
+python3 -B shared/metric-label-review/metric_label_review.py demo
+```
+
+The synthetic demo reports three changed labels and five collision groups,
+while retaining four cases and both candidates. Nine integration tests pass,
+including independent-folder use. Two unchanged ordinary-file engine snapshots
+ship with provenance. Counts survive detail caps; no font, safety, authenticity
+or measurement-truth claim is made. Older handoffs remain intact.

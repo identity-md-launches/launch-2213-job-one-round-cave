@@ -1,0 +1,26 @@
+{
+  "method": "Generated isolated pigment motif, transferred only nonblack mineral pigment to bare upper-right rock; no background regeneration.",
+  "image_tool": "mcp__image__generate_image",
+  "prompt": "Four irregular yellow ochre pebbles surrounding a chalk center, broken charcoal threads, worn porous handmade mineral pigment on black; no text, hands or symbols.",
+  "ancestor": "artifacts/gathering/wall-v15.png",
+  "ancestor_sha256": "e36d5e5e4a83440e327c11d079cd8d84a72a90ae4e61935be87d1f28ad682ba9",
+  "generated_donor_sha256": "521db927f43644083949de58ed19002b77398c9be372c668fff33e663d457e51",
+  "donor_dimensions": [
+    1536,
+    1024
+  ],
+  "donor_crop": [
+    435,
+    190,
+    1110,
+    795
+  ],
+  "destination_box": [
+    850,
+    110,
+    970,
+    210
+  ],
+  "changed_pixels": 3172,
+  "preservation": "All decoded pixels outside the small pigment transfer are identical to Gathering 15."
+}

@@ -1,0 +1,29 @@
+{
+  "normalization_hangul": {
+    "input_escaped": "\\u1100\\u1161",
+    "whole_string_nfc_escaped": "\\uac00",
+    "inherited_finding_count": 0,
+    "issue": "Whole-string normalization changes but inherited sequence scanner reports zero."
+  },
+  "percent_malformed": {
+    "input": "%-1",
+    "exception": "byte must be in range(0, 256)",
+    "issue": "Malformed percent escape causes uncaught bytearray ValueError in upstream CLI."
+  },
+  "uncertainty_lens_nonfinite": {
+    "accepted_nonfinite_start": true,
+    "observed": {
+      "events": 2,
+      "definite_orders": [
+        {
+          "before": "a",
+          "after": "b"
+        }
+      ],
+      "uncertain_pairs": []
+    },
+    "issue": "Nonfinite endpoints are accepted and participate in pairwise order analysis."
+  },
+  "line_files_changed": false,
+  "limits": "Tiny constructed regression probes, not observed attacks or real incident evidence."
+}

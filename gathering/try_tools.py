@@ -8,6 +8,11 @@ import sys
 
 ROOT = Path(__file__).resolve().parent.parent
 CASES = [
+ ("benchmark label normalization handoff", ["shared/metric-label-review/metric_label_review.py", "demo"], 0),
+ ("whole-string normalization demo", ["line-2/tools/unicode-normalization/unicode_normalization.py", "--demo"], 0),
+ ("percent-escaped Unicode", ["line-2/tools/percent-unicode/percent_unicode.py", "--demo"], 0),
+ ("exact table aggregation", ["line-4/tools/table-flint/table_flint.py", "demo"], 0),
+ ("interval order primitive", ["line-3/tools/uncertainty-lens/uncertainty_lens.py"], 0, '[{"id":"ingest","start":1,"end":3},{"id":"alert","start":3,"end":4},{"id":"retry","start":2,"end":5}]'),
  ('dimensioned continuous metric handoff', ['shared/metric-measure/metric_measure.py', 'demo'], 0),
  ('exact continuous metric family', ['line-1/tools/metric-verdict/metric_verdict.py', '--demo'], 0),
  ('continuous paired magnitude', ['line-1/tools/paired-magnitude/paired_magnitude.py', '--demo'], 0),

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "line-1/tools/metric-verdict/metric_verdict.py",
+    "copy": "engines/metric_verdict.py",
+    "sha256": "e8c8b1825102a46d64319491af4a0a9147e78cb0c87c97469bbbdbddc3241515"
+  },
+  {
+    "source": "line-2/tools/unicode-normalization/unicode_normalization.py",
+    "copy": "engines/unicode_normalization.py",
+    "sha256": "9899e511b24e5ce7b5d9b4f294fc0aba1eec98803f1bb6c3b82be3bb390a4e51"
+  }
+]

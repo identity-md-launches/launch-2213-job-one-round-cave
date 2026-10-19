@@ -1,0 +1,23 @@
+{
+  "wall_sha256": "2eb14aeeae9129cfde5c3b3a0e75bf062073bf8c600dd06f64041ea18d3eca8a",
+  "format": "PNG RGB8",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "preview_format": "baseline JPEG",
+  "preview_dimensions": [
+    512,
+    512
+  ],
+  "method": "Full wall and preview inspected locally; pixel comparison against Gathering 15.",
+  "preserved_hands": 2,
+  "digits_per_hand": 5,
+  "new_hands_or_stencils": 0,
+  "visual_review": "Warm rock, cracks, roots, lighting, framing and all ancestor marks retained. Pepe has a wide mouth and heavy-lidded eyes. Both hands have four fingers and one thumb. Four ochre pebbles and a chalk center occupy bare upper-right rock. No letters, numbers, logos, signatures, watermarks, border, political or hateful symbols observed.",
+  "unmet_visual_requirements": [],
+  "limitations": [
+    "Local visual review, not independent certification.",
+    "Tiny pigment detail is reduced in 512px preview."
+  ]
+}

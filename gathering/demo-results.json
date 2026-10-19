@@ -2,6 +2,95 @@
   "checks_passed": true,
   "examples": [
     {
+      "name": "benchmark label normalization handoff",
+      "command": [
+        "python3",
+        "-B",
+        "shared/metric-label-review/metric_label_review.py",
+        "demo"
+      ],
+      "expected_exit": 0,
+      "exit_code": 0,
+      "passed": true,
+      "observed": {}
+    },
+    {
+      "name": "whole-string normalization demo",
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/unicode-normalization/unicode_normalization.py",
+        "--demo"
+      ],
+      "expected_exit": 0,
+      "exit_code": 0,
+      "passed": true,
+      "observed": {
+        "analysis_complete": true,
+        "finding_count": 3
+      }
+    },
+    {
+      "name": "percent-escaped Unicode",
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/percent-unicode/percent_unicode.py",
+        "--demo"
+      ],
+      "expected_exit": 0,
+      "exit_code": 0,
+      "passed": true,
+      "observed": {
+        "analysis_complete": true
+      }
+    },
+    {
+      "name": "exact table aggregation",
+      "command": [
+        "python3",
+        "-B",
+        "line-4/tools/table-flint/table_flint.py",
+        "demo"
+      ],
+      "expected_exit": 0,
+      "exit_code": 0,
+      "passed": true,
+      "observed": {
+        "passes": true,
+        "unit": "m"
+      }
+    },
+    {
+      "name": "interval order primitive",
+      "command": [
+        "python3",
+        "-B",
+        "line-3/tools/uncertainty-lens/uncertainty_lens.py"
+      ],
+      "expected_exit": 0,
+      "exit_code": 0,
+      "passed": true,
+      "stdin": [
+        {
+          "id": "ingest",
+          "start": 1,
+          "end": 3
+        },
+        {
+          "id": "alert",
+          "start": 3,
+          "end": 4
+        },
+        {
+          "id": "retry",
+          "start": 2,
+          "end": 5
+        }
+      ],
+      "observed": {}
+    },
+    {
       "name": "dimensioned continuous metric handoff",
       "command": [
         "python3",
